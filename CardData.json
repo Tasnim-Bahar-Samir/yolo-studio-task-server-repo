@@ -1,30 +1,36 @@
 [
     {
+      "_id":"1",
       "name": "Cycling",
       "details": "Perfect features for fitness & gym...",
       "img": "https://i.ibb.co/swjyBCt/Rectangle-47.png"
     },
     {
+      "_id":"2",
       "name": "Cycling",
       "details": "Perfect features for fitness & gym...",
       "img": "https://i.ibb.co/D1RKd8Q/Rectangle-48.png"
     },
     {
+      "_id":"3",
       "name": "Cycling",
       "details": "Perfect features for fitness & gym...",
       "img": "https://i.ibb.co/Dwy1tJZ/Rectangle-47-1.png"
     },
     {
+      "_id":"4",
       "name": "Cycling",
       "details": "Perfect features for fitness & gym...",
       "img": "https://i.ibb.co/4f53Syk/Rectangle-47-2.png"
     },
     {
+      "_id":"5",
       "name": "Cycling",
       "details": "Perfect features for fitness & gym...",
       "img": "https://i.ibb.co/bHD2tXB/Rectangle-47-3.png"
     },
     {
+      "_id":"6",
       "name": "Cycling",
       "details": "Perfect features for fitness & gym...",
       "img": "https://i.ibb.co/6YPYpTq/Rectangle-47-4.png"

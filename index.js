@@ -5,8 +5,13 @@ const cardData = require('./CardData.json')
 require('dotenv').config()
 const app = express()
 
-app.use(cors())
 
+//midlewares
+app.use(cors())
+app.use(express.json())
+
+
+//routes
 app.get('/',(req,res)=>{
     res.send('Server is running')
 })
